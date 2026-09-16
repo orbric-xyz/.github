@@ -1,11 +1,3 @@
-# 오브릭 ORBRIC — 스포츠 데이터 분석 (orbric.xyz)
-
-> 결정서 G-11(2026-09-17, 보드 #1512) 용 공개 저장소 README 초안. 운영자가 깃허브 공개 조직
-> `orbric-xyz`(또는 `orbric`)의 저장소 `about` 에 그대로 붙여넣는다. **코드·비밀값·내부 경로 없음.**
-> 아래 구분선 밑이 README 본문이다.
-
----
-
 # ORBRIC (오브릭) — Sports data analysis · 스포츠 데이터 분석
 
 **오브릭(ORBRIC, [orbric.xyz](https://orbric.xyz/))** 은 축구·야구·농구 경기 데이터와 초기 배당 기록을 근거로
@@ -45,6 +37,11 @@ ORBRIC (orbric.xyz) is not affiliated with other businesses that share the name.
 - 네이버 카페: <https://cafe.naver.com/orbric>
 - 네이버 블로그: <https://blog.naver.com/orbricblog>
 - Blogspot: <https://orbric.blogspot.com/>
+- X: <https://x.com/orbric_xyz>
+- Instagram: <https://www.instagram.com/orbric_xyz/>
+- Threads: <https://www.threads.com/@orbric_xyz>
+- YouTube: <https://www.youtube.com/@orbric_xyz>
+- GitHub: <https://github.com/orbric-xyz>
 
 © ORBRIC. 이 저장소는 서비스 소개용이며 소스 코드를 포함하지 않습니다. / This repository is an
 introduction only and contains no source code.
