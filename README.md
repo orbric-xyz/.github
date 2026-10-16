@@ -20,6 +20,6 @@ ORBRIC is a Korean sports data service for filtering soccer, baseball and basket
 
 ## 공식 채널
 
-[유튜브](https://www.youtube.com/@orbric_xyz) · [인스타그램](https://www.instagram.com/orbric_xyz/) · [스레드](https://www.threads.com/@orbric_xyz) · [틱톡](https://www.tiktok.com/@orbric_xyz) · [X](https://x.com/orbric_xyz) · [네이버 카페](https://cafe.naver.com/orbric) · [네이버 블로그](https://blog.naver.com/orbricblog) · [SOOP](https://www.sooplive.com/station/orbric)
+[유튜브](https://www.youtube.com/@orbric_xyz) · [인스타그램](https://www.instagram.com/orbric_xyz/) · [스레드](https://www.threads.com/@orbric_xyz) · [틱톡](https://www.tiktok.com/@orbric_xyz) · [X](https://x.com/orbric_xyz) · [페이스북](https://www.facebook.com/orbricxyz) · [네이버 카페](https://cafe.naver.com/orbric) · [네이버 블로그](https://blog.naver.com/orbricblog) · [SOOP](https://www.sooplive.com/station/orbric)
 
 이 저장소는 서비스 소개용이며 소스 코드는 들어 있지 않습니다.
